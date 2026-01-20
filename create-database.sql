@@ -94,7 +94,7 @@ INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct42'); 
 INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct43'); 
-INSERT INT Products (Name)
+INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct44'); 
 INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct45'); 
